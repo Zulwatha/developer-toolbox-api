@@ -102,7 +102,7 @@ A Dockerfile will be provided for easy deployment.
 
 ## 📄 License
 
-MIT License - see [LICENSE](main/LICENSE) for details.
+MIT License - see [LICENSE](blob/master/LICENSE) for details.
 
 ---
 
